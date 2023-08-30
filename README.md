@@ -29,4 +29,4 @@ The source code of all Gerk Elznik personal Helm charts can be found on GitHub: 
 ## Build Your Own
 https://medium.com/@gerkElznik/provision-a-free-personal-helm-chart-repo-using-github-583b668d9ba4
 
-> ☝️ Blog explaining how this repo was constructed
+> ☝️ Blog explaining how this repo was constructed ngetest lur
